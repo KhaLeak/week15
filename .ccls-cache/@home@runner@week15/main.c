@@ -4,7 +4,6 @@
   @date         Thursday,  8 January 2015
   @brief        LSH (Libstephen SHell)
 *******************************************************************************/
-
 #include <sys/wait.h>
 #include <unistd.h>
 #include <stdlib.h>
